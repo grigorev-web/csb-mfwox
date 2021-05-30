@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://grigorev-web.github.io/csb-mfwox/static/css/main.65a35424.chunk.css",
+    "main.js": "https://grigorev-web.github.io/csb-mfwox/static/js/main.de22dde3.chunk.js",
+    "main.js.map": "https://grigorev-web.github.io/csb-mfwox/static/js/main.de22dde3.chunk.js.map",
+    "runtime-main.js": "https://grigorev-web.github.io/csb-mfwox/static/js/runtime-main.6a3c87e5.js",
+    "runtime-main.js.map": "https://grigorev-web.github.io/csb-mfwox/static/js/runtime-main.6a3c87e5.js.map",
+    "static/css/2.5f25e38c.chunk.css": "https://grigorev-web.github.io/csb-mfwox/static/css/2.5f25e38c.chunk.css",
+    "static/js/2.5f939e01.chunk.js": "https://grigorev-web.github.io/csb-mfwox/static/js/2.5f939e01.chunk.js",
+    "static/js/2.5f939e01.chunk.js.map": "https://grigorev-web.github.io/csb-mfwox/static/js/2.5f939e01.chunk.js.map",
+    "index.html": "https://grigorev-web.github.io/csb-mfwox/index.html",
+    "static/css/2.5f25e38c.chunk.css.map": "https://grigorev-web.github.io/csb-mfwox/static/css/2.5f25e38c.chunk.css.map",
+    "static/css/main.65a35424.chunk.css.map": "https://grigorev-web.github.io/csb-mfwox/static/css/main.65a35424.chunk.css.map",
+    "static/js/2.5f939e01.chunk.js.LICENSE.txt": "https://grigorev-web.github.io/csb-mfwox/static/js/2.5f939e01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a3c87e5.js",
+    "static/css/2.5f25e38c.chunk.css",
+    "static/js/2.5f939e01.chunk.js",
+    "static/css/main.65a35424.chunk.css",
+    "static/js/main.de22dde3.chunk.js"
+  ]
+}
